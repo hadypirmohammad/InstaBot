@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotInstagram", "BotInstagram\BotInstagram.csproj", "{5EACD932-57A3-4AD9-97D7-99EF5977A8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaWebApp", "InstaWebApp\InstaWebApp.csproj", "{DFCFF923-06F6-431E-94F4-BE2576302655}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSoftware", "SetupSoftware\SetupSoftware.vdproj", "{BBDA545D-FB1B-46A2-8283-98C565520F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EACD932-57A3-4AD9-97D7-99EF5977A8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EACD932-57A3-4AD9-97D7-99EF5977A8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EACD932-57A3-4AD9-97D7-99EF5977A8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EACD932-57A3-4AD9-97D7-99EF5977A8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCFF923-06F6-431E-94F4-BE2576302655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCFF923-06F6-431E-94F4-BE2576302655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA545D-FB1B-46A2-8283-98C565520F50}.Debug|Any CPU.ActiveCfg = Debug
+		{BBDA545D-FB1B-46A2-8283-98C565520F50}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04B86F0-CED2-4889-A72B-085F1F43AEC7}
+	EndGlobalSection
+EndGlobal
